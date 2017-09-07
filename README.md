@@ -45,7 +45,7 @@ Testnet P2P port: 17997 RPC port: 17996
   </a>
 
 <a href="https://bitcointalk.org/index.php?topic=1237881.0">
-  <img style="height:100px;" alt="Bitcointalk Thread" src="https://pbs.twimg.com/profile_images/1472041543/bitcoinlogo_400x400.png">
+  <img style="height:100px;" alt="Bitcointalk Thread" src="https://dualitypost.files.wordpress.com/2017/05/image1.png?w=193&h=97">
   </a>
 
 <a href="https://twitter.com/MoinCrypto">
