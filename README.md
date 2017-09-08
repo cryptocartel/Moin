@@ -1,4 +1,4 @@
-<img height="400px"src="http://www.moinmovement.org/uploads/1/7/2/5/17250280/moin-logo-1000x1000_orig.png">
+<img height="400px;" src="http://www.moinmovement.org/uploads/1/7/2/5/17250280/moin-logo-1000x1000_orig.png">
 
 # MOIN
 
