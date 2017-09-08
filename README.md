@@ -1,4 +1,4 @@
-![Moin-Logo](http://www.moinmovement.org/uploads/1/7/2/5/17250280/moin-logo-1000x1000_orig.png)
+<img height="400px"src="http://www.moinmovement.org/uploads/1/7/2/5/17250280/moin-logo-1000x1000_orig.png">
 
 # MOIN
 
@@ -38,27 +38,27 @@ Testnet P2P port: 17997 RPC port: 17996
 # <img src="https://ip.bitcointalk.org/?u=http%3A%2F%2Fi.imgur.com%2F0XW4uuk.png&t=580&c=pFacfwa-1R8Ptg">
 
 # <a href="http://moinmovement.org/">
-  <img style="height:100px;" alt="Community Website" src="https://discovermoin.com/images/logo.png">
+  <img height="100px" alt="Community Website" src="https://discovermoin.com/images/logo.png">
   </a>
 
 # <a href="https://discovermoin.herokuapp.com/">
-  <img style="height:100px;" alt="Slack" src="https://ip.bitcointalk.org/?u=http%3A%2F%2Fi.imgur.com%2FdLEg2c6.png&t=580&c=2_J4ESRkfhWaWA">
+  <img height="100px" alt="Slack" src="https://ip.bitcointalk.org/?u=http%3A%2F%2Fi.imgur.com%2FdLEg2c6.png&t=580&c=2_J4ESRkfhWaWA">
   </a>
 
 # <a href="https://bitcointalk.org/index.php?topic=1237881.0">
-  <img style="height:100px;" alt="Bitcointalk Thread" src="https://dualitypost.files.wordpress.com/2017/05/image1.png?w=193&h=97">
+  <img height="100px" alt="Bitcointalk Thread" src="https://dualitypost.files.wordpress.com/2017/05/image1.png?w=193&h=97">
   </a>
 
 # <a href="https://twitter.com/MoinCrypto">
-  <img style="height:100px;" alt="Twitter" src="https://ip.bitcointalk.org/?u=http%3A%2F%2Fi.imgur.com%2FMLJqPu4.png&t=580&c=8RbbD1ZNhTmYQg">
+  <img sheight="100px" alt="Twitter" src="https://ip.bitcointalk.org/?u=http%3A%2F%2Fi.imgur.com%2FMLJqPu4.png&t=580&c=8RbbD1ZNhTmYQg">
   </a>
 
 # <a href="https://kiwiirc.com/client/irc.freenode.net/#moin-crypto">
-  <img style="height:100px;" alt="freenode IRC" src="https://ip.bitcointalk.org/?u=http%3A%2F%2Fi.imgur.com%2FamUnKGQ.png&t=580&c=UfvXhDnn7dQdHw">
+  <img height="100px" alt="freenode IRC" src="https://ip.bitcointalk.org/?u=http%3A%2F%2Fi.imgur.com%2FamUnKGQ.png&t=580&c=UfvXhDnn7dQdHw">
   </a>
 
 # <a href="https://www.facebook.com/moinproject/">
-  <img style="height:100px;" alt="Facebook" src="https://ip.bitcointalk.org/?u=https%3A%2F%2Fi.imgur.com%2FSTZtC2X.png&t=580&c=VYL3qpVfDZNitg">
+  <img height="100px" alt="Facebook" src="https://ip.bitcointalk.org/?u=https%3A%2F%2Fi.imgur.com%2FSTZtC2X.png&t=580&c=VYL3qpVfDZNitg">
   </a>
 
 -------------------
@@ -103,7 +103,7 @@ Testnet P2P port: 17997 RPC port: 17996
 
 [![Livecoin.net](https://www.okchanger.com/payment-systems/preview-file/2108)](https://www.livecoin.net/trade/index?currencyPair=MOIN%2FBTC)
 
-[![Cryptopia](http://i.imgur.com/Hx9xuJJ.png)](https://www.cryptopia.co.nz/Exchange/?market=MOIN_BTC){:height="36px" width="36px"}.
+[![Cryptopia](http://i.imgur.com/Hx9xuJJ.png)](https://www.cryptopia.co.nz/Exchange/?market=MOIN_BTC)
 
 [![Coinexchange.io](https://www.coinexchange.io/assets/images/logo_new_2.png)](https://www.coinexchange.io/market/MOIN/BTC)
 
