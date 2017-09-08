@@ -103,7 +103,7 @@ Testnet P2P port: 17997 RPC port: 17996
 
 [![Livecoin.net](https://www.okchanger.com/payment-systems/preview-file/2108)](https://www.livecoin.net/trade/index?currencyPair=MOIN%2FBTC)
 
-[![Cryptopia](http://i.imgur.com/Hx9xuJJ.png)](https://www.cryptopia.co.nz/Exchange/?market=MOIN_BTC)
+[![Cryptopia](http://i.imgur.com/Hx9xuJJ.png)](https://www.cryptopia.co.nz/Exchange/?market=MOIN_BTC){:height="36px" width="36px"}.
 
 [![Coinexchange.io](https://www.coinexchange.io/assets/images/logo_new_2.png)](https://www.coinexchange.io/market/MOIN/BTC)
 
