@@ -35,32 +35,31 @@ P2P port: 7997 RPC port: 7996
 
 Testnet P2P port: 17997 RPC port: 17996
 
-<img src="https://ip.bitcointalk.org/?u=http%3A%2F%2Fi.imgur.com%2F0XW4uuk.png&t=580&c=pFacfwa-1R8Ptg">
-<a href="http://moinmovement.org/">
+# <img src="https://ip.bitcointalk.org/?u=http%3A%2F%2Fi.imgur.com%2F0XW4uuk.png&t=580&c=pFacfwa-1R8Ptg">
+
+# <a href="http://moinmovement.org/">
   <img style="height:100px;" alt="Community Website" src="https://discovermoin.com/images/logo.png">
   </a>
 
-<a href="https://discovermoin.herokuapp.com/">
-    <img style="height:100px;" alt="Slack" src="https://ip.bitcointalk.org/?u=http%3A%2F%2Fi.imgur.com%2FdLEg2c6.png&t=580&c=2_J4ESRkfhWaWA">
+# <a href="https://discovermoin.herokuapp.com/">
+  <img style="height:100px;" alt="Slack" src="https://ip.bitcointalk.org/?u=http%3A%2F%2Fi.imgur.com%2FdLEg2c6.png&t=580&c=2_J4ESRkfhWaWA">
   </a>
 
-<a href="https://bitcointalk.org/index.php?topic=1237881.0">
+# <a href="https://bitcointalk.org/index.php?topic=1237881.0">
   <img style="height:100px;" alt="Bitcointalk Thread" src="https://dualitypost.files.wordpress.com/2017/05/image1.png?w=193&h=97">
   </a>
 
-<a href="https://twitter.com/MoinCrypto">
+# <a href="https://twitter.com/MoinCrypto">
   <img style="height:100px;" alt="Twitter" src="https://ip.bitcointalk.org/?u=http%3A%2F%2Fi.imgur.com%2FMLJqPu4.png&t=580&c=8RbbD1ZNhTmYQg">
   </a>
 
-<a href="https://kiwiirc.com/client/irc.freenode.net/#moin-crypto">
+# <a href="https://kiwiirc.com/client/irc.freenode.net/#moin-crypto">
   <img style="height:100px;" alt="freenode IRC" src="https://ip.bitcointalk.org/?u=http%3A%2F%2Fi.imgur.com%2FamUnKGQ.png&t=580&c=UfvXhDnn7dQdHw">
   </a>
 
-<a href="https://www.facebook.com/moinproject/">
+# <a href="https://www.facebook.com/moinproject/">
   <img style="height:100px;" alt="Facebook" src="https://ip.bitcointalk.org/?u=https%3A%2F%2Fi.imgur.com%2FSTZtC2X.png&t=580&c=VYL3qpVfDZNitg">
   </a>
-
-
 
 -------------------
 
